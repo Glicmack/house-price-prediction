@@ -202,5 +202,4 @@ This project is open source and available under the MIT License.
 ## 👤 Author
 
 Your Name
-- GitHub: [@yourusername](https://github.com/Glicmack)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- GitHub: [@Glicmack](https://github.com/Glicmack).
