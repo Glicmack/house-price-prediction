@@ -1,0 +1,38 @@
+{
+  "numeric_features": [
+    "Amount(in rupees)",
+    "Carpet Area",
+    "Floor",
+    "Bathroom",
+    "Balcony",
+    "Car Parking",
+    "Super Area"
+  ],
+  "categorical_features": [
+    "location",
+    "Status",
+    "Transaction",
+    "Furnishing",
+    "facing",
+    "overlooking",
+    "Ownership"
+  ],
+  "all_features": [
+    "Amount(in rupees)",
+    "Carpet Area",
+    "Floor",
+    "Bathroom",
+    "Balcony",
+    "Car Parking",
+    "Super Area",
+    "location",
+    "Status",
+    "Transaction",
+    "Furnishing",
+    "facing",
+    "overlooking",
+    "Ownership"
+  ],
+  "log_target": true,
+  "target_col": "Price (in rupees)"
+}
