@@ -2,6 +2,8 @@
 
 A machine learning project that predicts house prices in Indian real estate market using Random Forest regression. The system includes both a web interface and REST API for predictions.
 
+Download dataset - https://drive.google.com/file/d/1CADTiruafqkwM6n8km4xWe70ApRoSejh/view?usp=sharing
+
 ## 🎯 Project Overview
 
 This project demonstrates end-to-end ML workflow including:
